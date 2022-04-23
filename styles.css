@@ -1,0 +1,10 @@
+body {
+  font-family: "Karla", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+hr {
+  border: 1px solid #2f3e53;
+}
