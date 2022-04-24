@@ -8,3 +8,12 @@ body {
 hr {
   border: 1px solid #2f3e53;
 }
+
+@media screen and (min-width: 480px) {
+  body {
+    font-family: "Karla", sans-serif;
+    display: flex;
+
+    justify-content: center;
+  }
+}
